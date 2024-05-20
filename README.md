@@ -12,4 +12,13 @@ This repo contains all the materials I create during my ML learning journey. :)
      - Aggregations: min, max, sum, median etc.
      - Broadcasting, masking and sorting using sort, argsort, partition and argpartition and their use cases.
 3. **Pandas**
-4. **Matplotlib**
+     - Pandas objects: Series, DataFrame and Index
+     - Data indexing and selection: slicing and masking
+     - Operations on data: Ufuncs
+     - Handling missing data: None of Python and Nan of numpy
+     - Operations on null vaues: isnull, notnull, dropna, fillna
+     - Joining dataframes: concat and merge
+     - Aggregations and Groupby
+       
+       *Vectorized string operations and time series data handling can be covered from Pandas official documentation.*
+5. **Matplotlib**

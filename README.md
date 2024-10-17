@@ -23,6 +23,9 @@ This repo contains all the materials I create during my ML learning journey. :)
        *Vectorized string operations and time series data handling can be covered from Pandas official documentation.*
 5. **Matplotlib**
 
+## [Time Series Forecasting](Time-Series-Forecasting/)
+Notebooks on time series forecasting.
+
 
 ## [Problems](Problems)
 
